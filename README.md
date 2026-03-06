@@ -1,6 +1,6 @@
 # Idea Expansion Study (ISE Training)
 
-**Developer:** Yaxin Liu
+**Developer:** Yaxin Liu  
 **Date Created:** March 2026  
 **Project Status:** Piloting  
 
