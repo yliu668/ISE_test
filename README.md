@@ -1,5 +1,7 @@
 # Idea Expansion Study (ISE Training)
 
+This is the public-facing web app for collecting human participant data.
+
 **Developer:** Yaxin Liu  
 **Date Created:** March 2026  
 **Project Status:** Piloting  
