@@ -7,6 +7,7 @@ This is the public-facing web app for collecting human participant data.
 **Project Status:** Piloting  
 
 **Last Data Download:** March 4, 2026
+**Last changes**: 4 submissions from 5
 
 ---
 
